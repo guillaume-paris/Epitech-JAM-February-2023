@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "Tu es plutôt gentil ou méchant ?",
+            "answers": [
+                "Gentil",
+                "Méchant",
+                "M'en fou"
+            ]
+        },
+        {
+            "question": "Si tu devenais un super-héros, quelle serait ta tenue ?",
+            "answers": [
+                "Un costume en cuir rouge",
+                "Une tenue sombre... Très sombre...",
+                "Le cliché : collant très très moulant et une cape"
+            ]
+        },
+        {
+            "question": "Quel est ton super pouvoir ?",
+            "answers": [
+                "Ne pas avoir de pouvoirs, mais juste savoir créer mes propres objets de combat",
+                "Être doué(e) dans les arts martiaux",
+                "Être assez intelligent pour construire ma tenu"
+            ]
+        },
+        {
+            "question": "Une femme enceinte tombe dans la rue et dit que son bébé arrive, que fais-tu ?",
+            "answers": [
+                "Je peux pas j'ai aqua-poney",
+                "Je l'aide à attendre les secours et je lui dis de ne PAS pousser",
+                "Euh... Je n'ai rien vu..."
+            ]
+        },
+        {
+            "question": "Un(e) ami(e) a besoin de toi, mais tu es à un rencart (et évidemment, il/elle n'est pas au courant de ton identité secrète). Que fais-tu?",
+            "answers": [
+                "Je lui dis de se débrouiller",
+                "Je l'aide à distance",
+                "Je ghost"
+            ]
+        }
+    ]
+}

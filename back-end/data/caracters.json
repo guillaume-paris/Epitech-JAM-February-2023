@@ -1,0 +1,64 @@
+{
+    "caracters": [
+        {
+            "super-hero-name": "Spiderman",
+            "real-name": "Peter Parker",
+            "description": "Un étudiant en science qui a été mordu par une araignée radioactive et qui a acquis des pouvoirs de super-héros.",
+            "age": 16,
+            "powers": [
+                "Force surhumaine",
+                "Capable de marcher sur les murs",
+                "Capable de sauter de grandes distances"
+            ],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Gen_Con_Indy_2008_-_costumes_171_1.JPG"
+        },
+        {
+            "super-hero-name": "Batman",
+            "real-name": "Bruce Wayne",
+            "description": "Un milliardaire industriel et playboy notoire, lutte contre le crime à Gotham City.",
+            "age": 36,
+            "powers": [
+                "Intellect surhumain",
+                "Condition physique et mentale de pointe",
+                "Détective export"
+            ],
+            "image": "https://cdn.deguisetoi.fr/images/rep_art/gra/175/2/175203/deguisement-luxe-batman-homme_175203_5.jpg"
+        },
+        {
+            "super-hero-name": "Superman",
+            "real-name": "Clark Kent",
+            "description": "Un alien orphelin est envoyé de sa planète mourante à la Terre, où il grandit pour devenir le premier et le plus grand super-héros de sa maison adoptive.",
+            "age": 30,
+            "powers": [
+                "Force surhumaine",
+                "Vitesse surhumaine",
+                "Vision thermique, x-ray, radar"
+            ],
+            "image": "https://images.halloweencostumes.com/products/9455/1-2/child-deluxe-superman-costume.jpg"
+        },
+        {
+            "super-hero-name": "Super-Johan",
+            "real-name": "Johan Thay-nam",
+            "description": "Un homme au pouvoir extraordinaire, qui a pour but de sauver le monde.",
+            "age": 30,
+            "powers": [
+                "Intellect surhumain",
+                "Force de dissuasion",
+                "Gentillesse et sympathie à tout épreuve"
+            ],
+            "image": "./super-jojo.png"
+        },
+        {
+            "super-hero-name": "Hulk",
+            "real-name": "Bruce Banner",
+            "description": "Un scientifique qui a été exposé à une forte dose de rayons gamma et qui a acquis des pouvoirs de super-héros.",
+            "age": 40,
+            "powers": [
+                "Force surhumaine",
+                "Résistance surhumaine",
+                "Peut se transformer en Hulk"
+            ],
+            "image": "https://cdn.s7.shopdisney.eu/is/image/DisneyStoreES/2844049550030M-1?fmt=jpeg&qlt=90&wid=652&hei=652"
+        }
+    ]
+}
